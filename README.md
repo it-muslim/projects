@@ -32,10 +32,10 @@ Islam QA - сайт с вопросами и ответами на вопрос�
 
 **Сайт:** http://namazvdom.com
 
-Ссылка для скачивания (iOS):
+**iOS:**
 https://apps.apple.com/us/app/namazvdom/id1081876482
 
-Ссылка для скачивания (Android):
+**Android:**
 https://play.google.com/store/apps/details?id=com.namazvdom&hl=ru
 
 ## Quran Academy
@@ -51,8 +51,8 @@ https://play.google.com/store/apps/details?id=com.namazvdom&hl=ru
 - подсветка таджвида
 - два режима чтения: список и мусхаф
 
-Ссылка для скачивания (iOS):
+**iOS:**
 https://apps.apple.com/ru/app/id1481765206
 
-Ссылка для скачивания (Android):
+**Android:**
 https://play.google.com/store/apps/details?id=org.quranacademy.quran&hl=ru
