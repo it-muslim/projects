@@ -2,6 +2,21 @@
 
 [Станьте волонтёром одного из проектов!](help-wanted.md)
 
+## Арабский словарь Maajim
+
+Арабские толковые словари
+
+**Android:** https://play.google.com/store/apps/details?id=io.arabic.maajim 
+**iOS:** https://apps.apple.com/ru/app/maajim-arabic-dictionary/id1557616456
+
+## Арабско-русский словарь
+
+**Android:** https://play.google.com/store/apps/details?id=io.arabic.dictionary
+
+## Qiráa – Арабское чтение
+
+**Android:** https://play.google.com/store/apps/details?id=io.arabic.qiraa
+
 ## Islam QA
 
 Islam QA - сайт с вопросами и ответами на вопросами по различным вопросам Ислама.
