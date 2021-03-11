@@ -6,8 +6,11 @@
 
 Арабские толковые словари
 
-**Android:** https://play.google.com/store/apps/details?id=io.arabic.maajim 
-**iOS:** https://apps.apple.com/ru/app/maajim-arabic-dictionary/id1557616456
+**Android:**
+https://play.google.com/store/apps/details?id=io.arabic.maajim
+
+**iOS:**
+https://apps.apple.com/ru/app/maajim-arabic-dictionary/id1557616456
 
 ## Арабско-русский словарь
 
