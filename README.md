@@ -79,7 +79,7 @@ https://play.google.com/store/apps/details?id=com.namazvdom&hl=ru
 
 ## Sadaka Online - садака, выплата закята
 
-**Сайт:** https://sadaka.online/
+**Сайт:** https://sadaka.online
 
 ## Sajda - время намаза, направление молитвы
 
