@@ -119,3 +119,9 @@ https://play.google.com/store/apps/details?id=org.quranacademy.quran&hl=ru
 **iOS:** https://apps.apple.com/us/app/quran-by-quran-com-qran/id1118663303
 
 **Android:** https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&utm_source=quran-com&utm_campaign=download
+
+## Sadaka Online
+
+Сайт для выплаты закята, каффары, садака.
+
+**Сайт:** https://sadaka.online
