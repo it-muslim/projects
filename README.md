@@ -114,6 +114,9 @@ https://apps.apple.com/ru/app/id1481765206
 **Android:**
 https://play.google.com/store/apps/details?id=org.quranacademy.quran&hl=ru
 
+**Исходный код:**
+https://github.com/quranacademy/quran-academy-android-app
+
 ## Quran.com
 
 **Сайт:** https://quran.com
