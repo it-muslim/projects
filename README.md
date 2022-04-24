@@ -16,6 +16,11 @@
 
 **Android:** https://play.google.com/store/apps/details?id=io.arabic.dictionary
 
+## Доброфон
+
+Система для автоматизации работы фондов и НКО.
+
+**Сайт:** https://dobrofon.org
 
 ## Коран Центр
 
