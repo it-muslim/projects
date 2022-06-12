@@ -113,6 +113,18 @@ Islam QA - сайт с вопросами и ответами на вопрос�
 
 **Сайт:**  http://sunna.e-minbar.com
 
+### Исламская библиотека на арабском
+
+Comprehensive Islamic Library
+
+**Сайт:** https://ketabonline.com/en
+
+**iOS:**
+https://apps.apple.com/us/app/comprehensive-islamic-library/id1540068326
+
+**Android:**
+https://play.google.com/store/apps/details?id=com.ketabonline
+
 ## Поклонение
 
 ### Namazvdom
@@ -125,7 +137,7 @@ Islam QA - сайт с вопросами и ответами на вопрос�
 https://apps.apple.com/us/app/namazvdom/id1081876482
 
 **Android:**
-https://play.google.com/store/apps/details?id=com.namazvdom&hl=ru
+https://play.google.com/store/apps/details?id=com.namazvdom
 
 ### Sajda - время намаза, направление молитвы
 
