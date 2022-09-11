@@ -58,7 +58,7 @@ Furqan — это функциональное веб-приложение, ко
 
 **Сайт:** https://furqan.app
 
-### QuranEnc
+### Quran Encyclopedia
 
 The Noble Quran Encyclopedia - база переводов Корана на разные языки.
 
@@ -66,6 +66,13 @@ The Noble Quran Encyclopedia - база переводов Корана на р�
 
 ## Арабский
 
+### Арабский алфавит
+
+Сайт и приложение для обучения арабскому алфавиту и таджвиду от Академии Корана.
+
+**Сайт:** https://alphabet.quranacademy.org
+
+**Android:** https://play.google.com/store/apps/details?id=org.quranacademy.arabicalphabet
 
 ### Kalimat
 
@@ -81,7 +88,8 @@ The Noble Quran Encyclopedia - база переводов Корана на р�
 
 **Сайт:** https://qamus.ru
 
-**Android:** https://play.google.com/store/apps/details?id=io.arabic.dictionary
+**Android:**
+https://play.google.com/store/apps/details?id=io.arabic.dictionary
 
 ### Арабский словарь Maajim
 
@@ -130,6 +138,12 @@ https://apps.apple.com/us/app/comprehensive-islamic-library/id1540068326
 
 **Android:**
 https://play.google.com/store/apps/details?id=com.ketabonline
+
+### Terminology Encyclopedia
+
+Terminology Encyclopedia - энциклопедия исламских терминов.
+
+**Сайт**: https://terminologyenc.com
 
 ## Поклонение
 
