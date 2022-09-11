@@ -58,6 +58,12 @@ Furqan — это функциональное веб-приложение, ко
 
 **Сайт:** https://furqan.app
 
+### QuranEnc
+
+The Noble Quran Encyclopedia - база переводов Корана на разные языки.
+
+**Сайт**: https://quranenc.com
+
 ## Арабский
 
 
