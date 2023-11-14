@@ -40,7 +40,7 @@ https://github.com/quranacademy/quran-academy-android-app
 
 **iOS:** https://apps.apple.com/us/app/quran-by-quran-com-qran/id1118663303
 
-**Android:** https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&utm_source=quran-com&utm_campaign=download
+**Android:** https://play.google.com/store/apps/details?id=com.quran.labs.androidquran
 
 ### Коран Центр
 
